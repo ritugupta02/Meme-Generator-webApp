@@ -67,7 +67,7 @@ border: 1px solid black;
     /* margin-top: 2%; */
     border-radius: 10px;
     color:white;
-    
+    cursor:pointer;
 }
 input{
     width: 180px;
@@ -85,6 +85,7 @@ input{
 
 ::placeholder{
     color: white;
+     opacity: 0.5;
 }
 .generatebutton{
     margin-top: 7px;
@@ -95,5 +96,5 @@ input{
     font-size: 1.1rem;
     border-radius: 10px;
     color:white;
-   
+   cursor:pointer;
 }
